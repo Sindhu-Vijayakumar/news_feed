@@ -1,7 +1,7 @@
 .two-cards > .container{
 	display: flex;
     flex-wrap: wrap;
-    background-color: #958e8e24;
+    background-color: #e3eaf1;
 }
 .noimg-card{
 	height:230px;
